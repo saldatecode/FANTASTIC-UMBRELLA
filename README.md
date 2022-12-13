@@ -22,6 +22,6 @@ THEN I am able to successfully create, update, and delete data in my database
 ## Links
 
 
-Walk Through  https://drive.google.com/file/d/1cigdeARy1XYmponyHBgNcCQ5yjDYarSP/view
+Walk Through  https://www.youtube.com/watch?v=CrjiWAvlpgk
 
 Github REPO   https://github.com/saldatecode/FANTASTIC-UMBRELLA
